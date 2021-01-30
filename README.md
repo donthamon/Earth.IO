@@ -14,5 +14,5 @@ Backed by $BitCoin$
 -
 
 {API}
-Welcome to the Rat Installer - Powered by Docker
+Welcome to the Rat Installer - Powered by Windows
 {/API}

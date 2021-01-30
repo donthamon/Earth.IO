@@ -16,3 +16,4 @@ Backed by $BitCoin$
 {API}
 Welcome to the Rat Installer - Powered by Windows
 {/API}
+dism.exe /Online /Enable-Feature:Microsoft-Hyper-V /All
